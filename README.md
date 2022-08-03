@@ -39,4 +39,4 @@ Erase Flash: "All Flash Contents"
 SSL Support: "All SSL ciphers (most compatible)"
 
 
-Port : "<DEPENDS TO YOUR BOARD>"
+Port : "DEPENDS TO YOUR BOARD>"
