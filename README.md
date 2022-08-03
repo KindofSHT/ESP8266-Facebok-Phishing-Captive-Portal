@@ -51,6 +51,10 @@ Automaticaly pop up this
 
 ![IMG_7428](https://user-images.githubusercontent.com/90843849/182630351-b6ba23dc-e0cf-4a2f-8392-912b5fe7ea28.PNG)
 _________________________________________
-CONNECT WITHOUT INTERNET TO ACCESS: 192.168.4.1/logs
+CLICK CANCEL AT THE RIGHT SIDE AT THE TOP AND CLICK: Use Without Internet
+
+GOTO BROWSER AND TYPE THIS: 192.168.4.1/logs 
+
+to see captured Credentials.
 
 
