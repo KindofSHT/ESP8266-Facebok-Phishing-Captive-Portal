@@ -1,5 +1,6 @@
 # ESP8266-Facebook Phishing-Captive-Portal
 Use Arduino IDE.
+Download FIle and Extract.
 Board: "NodeMCU 1.0 (ESP-12E Module)"
 Upload Speed: "115200"
 CPU Frequency: "160 MHz"
