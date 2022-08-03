@@ -55,6 +55,9 @@ CLICK CANCEL AT THE RIGHT SIDE AT THE TOP AND CLICK: Use Without Internet
 
 GOTO BROWSER AND TYPE THIS: 192.168.4.1/logs 
 
-to see captured Credentials.
+To see captured Credentials.
+
+![IMG_7433](https://user-images.githubusercontent.com/90843849/182632888-85cddc0d-72e5-4fdf-b7b9-577df79ae4fc.PNG)
+
 
 
