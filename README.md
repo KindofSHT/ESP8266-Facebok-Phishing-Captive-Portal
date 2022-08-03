@@ -1,10 +1,10 @@
 # ESP8266-Facebook Phishing
 ESP8266 phishing facebook Captive Portal.
 
-#To see captured credentials: 192.168.4.1/logs
+# To see captured credentials: 192.168.4.1/logs
 
 
-#INSTALLATION
+# INSTALLATION
 Download Zip and Extract.
 
 
@@ -47,7 +47,7 @@ _________________________________________
 _________________________________________
 
 
-CONNECT: "FREE WIFI"
+# CONNECT: "FREE WIFI"
 Automaticaly pop up this
 
 ![5764DE41-02A3-4778-B4B4-CE98F5181051](https://user-images.githubusercontent.com/90843849/182718128-a2938a55-75ff-475e-b4bd-cdb705eb4783.png)
@@ -55,9 +55,9 @@ Automaticaly pop up this
 _________________________________________
 CLICK CANCEL AT THE RIGHT SIDE AT THE TOP AND CLICK: Use Without Internet
 
-GOTO BROWSER AND TYPE THIS: 192.168.4.1/logs 
+# GOTO BROWSER AND TYPE THIS: 192.168.4.1/logs 
 
-To see captured Credentials.
+# To see captured Credentials.
 
 ![IMG_7433](https://user-images.githubusercontent.com/90843849/182632888-85cddc0d-72e5-4fdf-b7b9-577df79ae4fc.PNG)
 
