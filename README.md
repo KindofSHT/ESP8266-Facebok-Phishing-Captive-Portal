@@ -49,7 +49,8 @@ CONNECT: "FREE WIFI"
 Automaticaly pop up this
 
 
-![IMG_7428](https://user-images.githubusercontent.com/90843849/182630351-b6ba23dc-e0cf-4a2f-8392-912b5fe7ea28.PNG)
+![1B37159F-7C1D-4DA3-AA6F-7673E0AE7983](https://user-images.githubusercontent.com/90843849/182660601-221c481d-1985-4a7d-94db-fe32dd3ffa29.png)
+
 _________________________________________
 CLICK CANCEL AT THE RIGHT SIDE AT THE TOP AND CLICK: Use Without Internet
 
