@@ -46,7 +46,6 @@ _________________________________________
 
 
 CONNECT: "FREE WIFI"
-
-and automaticaly pop up this
+Automaticaly pop up this
 
 
