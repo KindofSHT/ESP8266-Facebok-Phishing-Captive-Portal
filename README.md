@@ -40,11 +40,12 @@ SSL Support: "All SSL ciphers (most compatible)"
 
 
 Port : "DEPENDS TO YOUR BOARD>
+_________________________________________
 
+_________________________________________
 
 
 CONNECT: FREE WIFI
 and automaticaly pop up this
 
 
-![IMG_7430](https://user-images.githubusercontent.com/90843849/182626148-e4ad4e5e-cf34-4b63-a6f7-dd8980a3bc48.PNG)
