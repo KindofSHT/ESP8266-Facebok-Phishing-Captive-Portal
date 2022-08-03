@@ -1,7 +1,7 @@
 # ESP8266-Facebook Phishing
 ESP8266 phishing facebook Captive
 
-[gitlab/license/]:project+?gitlab_url=https%3A%2F%2Fjihulab.com
+[gitlab,license]:project+?gitlab_url=https%3A%2F%2Fjihulab.com
 
 # To see captured credentials: 192.168.4.1/logs
 
