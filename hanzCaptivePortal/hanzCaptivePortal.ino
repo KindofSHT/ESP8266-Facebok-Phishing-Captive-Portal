@@ -11,7 +11,6 @@
 #include <WiFiClient.h>
 #include <ESP8266WebServer.h>
 #include <DNSServer.h>
-#include "License.h"
 #include <ESP8266mDNS.h>
 #include <FS.h>
 #include "facebook.h"
