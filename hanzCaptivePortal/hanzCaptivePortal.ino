@@ -1,5 +1,5 @@
 /*
- * Original by Corey Harding, edited by G. R. Casanova
+ * Original by Corey Hanz
  * www.legacysecuritygroup.com
  * Configure access point name and up to 3 custom domains and login urls in config.h
  * Configure the html for login page of said domains in site1.h, site2.h, and site3.h
